@@ -1,3 +1,11 @@
+I choose the "styled components" method because it felt easier and lighter for a small project like this one.
+
+
+
+
+
+_______________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
